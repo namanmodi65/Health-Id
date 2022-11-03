@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.container{
+    padding:5px 70px ;
+    background-image: url(home.jpg);
+    background-color: #defcfc;
+    height: 100vh;
+    background-size: cover;
+}
+.title{
+    text-align: center
+}
+.title h1{
+    /* font-family: 'Ms Madi', cursive; */
+    font-family: 'Raleway', sans-serif;
+    color: rgb(44, 115, 115);
+}
+.tag{
+    font-family: 'Raleway', sans-serif;
+    color: rgb(44, 115, 115);
+
+}
+.title h1 i{
+    color: red;
+    padding: 0px 10px;
+}

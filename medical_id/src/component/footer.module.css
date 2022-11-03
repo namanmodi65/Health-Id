@@ -1,0 +1,10 @@
+.container{
+    background-color: rgb(44, 115, 115);
+    height: 60px;
+    justify-content: center;
+    text-align: center;
+}
+h4{
+    padding: 18px 0px;
+    color: aliceblue;
+}

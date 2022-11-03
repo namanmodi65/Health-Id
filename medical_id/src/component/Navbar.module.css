@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.navbar{
+    background-color: rgb(44, 115, 115);
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar ul .title{
+    float: left;
+    padding: 10px 30px;
+    font-family: 'Ms Madi', cursive;
+}
+.navbar ul .title a{
+    text-decoration: none;
+    font-size: larger;
+    color: white;
+    font-weight: bolder;
+}
+.navbar ul .title i{
+    padding: 8px 6px;
+    color: white;
+}
+.navbar li{
+    float: right;
+    list-style: none;
+    margin: 13px 20px;
+}
+.navbar li a{
+    text-decoration: none;
+    font-size: large;
+    color: white;
+}
